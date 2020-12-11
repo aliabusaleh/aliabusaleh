@@ -42,8 +42,6 @@ at Infinite Tiers Group. Strong Advocate for 📜 open source, :cloud: Cloud com
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
 
-    
-   Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
 <br>
 <p align="center">
