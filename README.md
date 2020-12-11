@@ -41,9 +41,11 @@ at Infinite Tiers Group. Strong Advocate for 📜 open source, :cloud: Cloud com
 	<img title="Salesforce" src="https://seeklogo.com/images/S/salesforce-logo-F6B237ABDC-seeklogo.com.png" width="60" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
-   
+   <p align="center">
   
 ![AliAbuSaleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabusaleh&count_private=true&show_icons=true&theme=radical)
+</p>
+
 
 <br>
 <p align="center">
