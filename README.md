@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Ali AbuSaleh,
 
-An undergraduate Computer Engineering student, studing at An-Najah National University. 
+Back-end Engineer at HP Indigo, who studied Computer Engineering at An-Najah National University. 
 
 Currently I'm a software engineer at Exalt Technology in Nablus, working in back-end development using <img title="SpringBoot" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1" width="70" height="40" />, before that I've trained as <img title="Salesforce" src="https://seeklogo.com/images/S/salesforce-logo-F6B237ABDC-seeklogo.com.png" width="70" height="40"> developer (SFCC) 
 and <img title=".NET" src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" width="70" height="40">
