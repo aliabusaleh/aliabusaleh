@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Ali AbuSaleh,
 
-Back-end Engineer at HP Indigo, who studied Computer Engineering at An-Najah National University.
+I'm a BDMA(Master in Big Data Management and Analytics) scholer. 
 
- I was a software engineer at Exalt Technology in Nablus, working in back-end development using <img title="SpringBoot" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1" width="70" height="40" />, before that I've trained as <img title="Salesforce" src="https://seeklogo.com/images/S/salesforce-logo-F6B237ABDC-seeklogo.com.png" width="70" height="40"> developer (SFCC) 
-and <img title=".NET" src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" width="70" height="40">
+ Before that, I had experiance as Back-End engieer at Harri, which was my second year of experiance after I was a software engineer at Exalt Technology in Nablus, working in back-end development using SpringBoot ,and my kickstart experiance was I trained as Salesforcedeveloper (SFCC) 
+and .NET, at Infinite Tiers Group.
 
-at Infinite Tiers Group. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
+
+</br>
+</br>
+Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
 - ⚡  I've been in  Malta <img title="SpringBoot" src="https://www.corporategiftsmalta.com/wp-content/uploads/2017/06/flag-malta.png" width="30" height="20" /> as Erasmus+  student,  **MELA My Friend**!
 - :bulb: I'm interested in all things data: **Cloud, Security and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you, I'll be more than **Happy** to talk. .
