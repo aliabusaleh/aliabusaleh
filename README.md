@@ -25,8 +25,8 @@ and .NET, at Infinite Tiers Group.
 
 
 </br>
-</br>
 Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
+
 - ⚡  I've been in  Malta <img title="SpringBoot" src="https://www.corporategiftsmalta.com/wp-content/uploads/2017/06/flag-malta.png" width="30" height="20" /> as Erasmus+  student,  **MELA My Friend**!
 - :bulb: I'm interested in all things data: **Cloud, Security and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you, I'll be more than **Happy** to talk. .
