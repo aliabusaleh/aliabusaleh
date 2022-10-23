@@ -38,7 +38,15 @@ Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed 
 
 <p align="left">
 	<img title="SpringBoot" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1" width="80" height="40" />
-	<img title="Azure" src="https://www.gci.support/wp-content/uploads/2020/04/Microsoft-Azure.png" width="40" height="40" />
+	<img title="Django" src="http://www.creons-votre-site.com/wp-content/uploads/2017/05/django-logo.png" width="40" height="40" />
+	<img title="Elasticsearch" src="https://user.oc-static.com/upload/2017/10/10/15076639807937_Elasticsearch-Logo-Color-V.jpg.png" width="40" height="40" />
+	<img title="Kibana" src="https://i.pinimg.com/originals/1f/4b/35/1f4b351501bafeb05af336efa643970c.png" />
+	<img title="AWS Lambda" src="https://miro.medium.com/max/1400/1*djBovuUveshzYa9_TqPJzg.png" width="40" height="40" />
+	<img title="AWS SQS" src="https://www.snaplogic.com/wp-content/uploads/2018/02/AmazonSQS_400x400-1-1.png" width="40" height="40" />
+	<img title="AWS SNS" src="https://www.kamprasad.com/wp-content/uploads/2019/07/amazon_sns.png" width="40" height="40" />
+	<img title="AWS RDS" src="https://miro.medium.com/max/1140/1*CHOz8lCaOVf0uamEOY2-Og.png" width="40" height="40" />
+	<img title="AWS Step Functions" src="https://media-exp1.licdn.com/dms/image/C4E12AQGqm2eLKFVrbA/article-cover_image-shrink_600_2000/0/1572013929551?e=2147483647&v=beta&t=3X-_wEYOHXCvqk9eFn0u5tXGq-PcA5dAuP5BQYowCDE" width="40" height="40" />
+	<img title="Spring Boot" src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png" width="40" height="40" />
 	<img title="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" height="40" />
 	<img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" />
 	<img title="Salesforce" src="https://seeklogo.com/images/S/salesforce-logo-F6B237ABDC-seeklogo.com.png" width="60" height="40" />
