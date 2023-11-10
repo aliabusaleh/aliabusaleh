@@ -638,6 +638,7 @@ main {
 .modal-container.active {
   pointer-events: all;
   visibility: visible;
+  display: inline-block;
 }
 
 .overlay {
@@ -726,6 +727,24 @@ main {
   line-height: 1.6;
 }
 
+@media screen and (min-width: 768px) {
+  .testimonials-modal {
+    max-width: 600px;
+    margin: 15px auto;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .testimonials-modal {
+    max-width: 800px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .testimonials-modal {
+    max-width: 1000px;
+  }
+}
 
 /**
  * #clients 
@@ -1342,7 +1361,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 50%; }
 
   .avatar-box img { width: 120px; }
 

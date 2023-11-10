@@ -6,7 +6,6 @@
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 
-
 // sidebar variables
 const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
@@ -19,7 +18,7 @@ sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); }
 // testimonials variables
 const testimonialsItem = document.querySelectorAll("[data-testimonials-item]");
 const modalContainer = document.querySelector("[data-modal-container]");
-const modalCloseBtn = document.querySelector("[data-modal-close-btn]");
+const modalCloseBtn = document.querySelectorAll("[data-modal-close-btn]");
 const overlay = document.querySelector("[data-overlay]");
 
 // modal variable
@@ -33,23 +32,41 @@ const testimonialsModalFunc = function () {
   overlay.classList.toggle("active");
 }
 
-// add click event to all modal items
+// add click event to all modal items, but only shows the clided modal item
 for (let i = 0; i < testimonialsItem.length; i++) {
   testimonialsItem[i].addEventListener("click", function () {
-    // Get the specific modal associated with the clicked testimonial
-    const modal = document.querySelectorAll(`.testimonials-modal `)[i];
-    modalImg.src = this.querySelector("[data-testimonials-avatar]").src;
-    modalImg.alt = this.querySelector("[data-testimonials-avatar]").alt;
-    modalTitle.innerHTML = this.querySelector("[data-testimonials-title]").innerHTML;
-    modalText.innerHTML = this.querySelector("[data-testimonials-text]").innerHTML;
+    testimonialsModalFunc();
 
-    testimonialsModalFunc(modal); // Pass the modal element to the function
+    modalImg.src = this.querySelector("[data-testimonials-img]").src;
+    modalTitle.innerText = this.querySelector("[data-testimonials-title]").innerText;
+    modalText.innerText = this.querySelector("[data-testimonials-text]").innerText;
+
   });
 }
 
 
-// add click event to modal close button
-modalCloseBtn.addEventListener("click", testimonialsModalFunc);
+// for (let i = 0; i < testimonialsItem.length; i++) {
+//   testimonialsItem[i].addEventListener("click", function () {
+//     // Get the specific modal associated with the clicked testimonial
+//     const modal = document.querySelectorAll(`.testimonials-modal `)[i];
+//     modalImg.src = this.querySelector("[data-testimonials-avatar]").src;
+//     modalImg.alt = this.querySelector("[data-testimonials-avatar]").alt;
+//     modalTitle.innerHTML = this.querySelector("[data-testimonials-title]").innerHTML;
+//     modalText.innerHTML = this.querySelector("[data-testimonials-text]").innerHTML;
+
+//     testimonialsModalFunc(modal); // Pass the modal element to the function
+//   });
+// }
+
+
+
+// add click event to modal close button 
+// add click event to modal close button 
+for (let i = 0; i < modalCloseBtn.length; i++) {
+  modalCloseBtn[i].addEventListener("click", function () { testimonialsModalFunc(); });
+}
+
+
 overlay.addEventListener("click", testimonialsModalFunc);
 
 
