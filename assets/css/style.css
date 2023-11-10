@@ -127,8 +127,15 @@
 
 a { text-decoration: none; }
 
-li { list-style: none; }
+li { list-style: none;
+    color: lightgray
+}
 
+/* Make list item with default style for class timeline-sublist */
+.timeline-sublist li { list-style: disc;
+  margin-left:50px }
+.timeline-subsublist li {list-style: square;
+  margin-left: 90px}
 img, ion-icon, a, button, time, span { display: block; }
 
 button {
@@ -1902,5 +1909,5 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
-
+  .timeline-text-sublist {padding-left: 10%;}
 }
