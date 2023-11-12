@@ -55,10 +55,7 @@
 
         <div class="info-content">
           <h1 class="name" title="Ali AbuSaleh">Ali AbuSaleh</h1>
-
-          <p class="title">Data scientists</p>
-          <br>
-          <p class="title">Backend Engineer</p>
+          <p class="title">Data scientists | Backend Engineer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
@@ -89,7 +86,7 @@
 
           </li>
 
-          <li class="contact-item">
+          <!-- <li class="contact-item">
 
             <div class="icon-box">
               <ion-icon name="phone-portrait-outline"></ion-icon>
@@ -98,10 +95,10 @@
             <div class="contact-info">
               <p class="contact-title">Phone</p>
 
-              <a href="tel:+33753567608" class="contact-link">+33 7 53 56 76 08</a>
+              <a href="tel:+" class="contact-link"></a>
             </div>
 
-          </li>
+          </li> -->
 
           <li class="contact-item">
 
@@ -770,7 +767,7 @@
 
 
             <li class="project-item  active" data-filter-item data-category="Research">
-              <a href="https://www.linkedin.com/in/alighabusaleh">
+              <a href="https://www.linkedin.com/in/alighabusaleh" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -789,7 +786,7 @@
 
 
             <li class="project-item  active" data-filter-item data-category="Data Mining">
-              <a href="https://aliabusaleh.github.io/bdma-upc-bdm-bwave/index.html">
+              <a href="https://aliabusaleh.github.io/bdma-upc-bdm-bwave/index.html" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -807,7 +804,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="Data Mining">
-              <a href="https://www.linkedin.com/in/alighabusaleh">
+              <a href="https://www.linkedin.com/in/alighabusaleh" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -824,7 +821,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="Applications">
-              <a href="https://repository.najah.edu/items/8370407d-6db3-4ef5-a70b-badfec7dfb1a">
+              <a href="https://repository.najah.edu/items/8370407d-6db3-4ef5-a70b-badfec7dfb1a" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -843,7 +840,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="https://repository.najah.edu/items/dd295bc4-67c8-4df3-96a7-e4817b8a02b6">
+              <a href="https://repository.najah.edu/items/dd295bc4-67c8-4df3-96a7-e4817b8a02b6" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -860,7 +857,7 @@
               </a>
             </li>
 
-            
+
           </ul>
 
         </section>
@@ -1082,30 +1079,25 @@
         </section>
 
         <section class="contact-form">
-
           <h3 class="h3 form-title">Contact Form</h3>
-
-          <form action="mailto:alighabusaleh@gmail.com" method="post" enctype="text/plain">
+          <form action="mailto:alighabusaleh@gmail.com?subject=Contact Form Submission" method="post" enctype="text/plain">
             <div class="input-wrapper">
-                <input type="text" class="form-input" placeholder="Full name" required data-form-input>
-                <input type="email" class="form-input" placeholder="Email address" required data-form-input>
+              <input type="text" class="form-input" placeholder="Full name" required data-form-input name="name">
+              <input type="email" class="form-input" placeholder="Email address" required data-form-input name="email">
             </div>
-        
-            <textarea  class="form-input" placeholder="Your Message" required data-form-input></textarea>
-        
+            <textarea class="form-input" placeholder="Your Message" required data-form-input name="message"></textarea>
+            <input type="hidden" name="body" id="message-body">
             <button class="form-btn" type="submit" data-form-btn>
-                <ion-icon name="paper-plane"></ion-icon>
-                <span>Send Message</span>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
             </button>
-        </form>
+          </form>
           <ul class="social-list">
-
             <li class="social-item2">
               <a href="https://www.linkedin.com/in/alighabusaleh/" class="social-link2">
                 <ion-icon name="logo-linkedin"></ion-icon>
               </a>
             </li>
-  
             <li class="social-item2">
               <a href="https://github.com/aliabusaleh" class="social-link2">
                 <ion-icon name="logo-github"></ion-icon>
@@ -1113,6 +1105,18 @@
             </li>
           </ul>
         </section>
+
+        <script>
+          const form2 = document.querySelector('form');
+          const messageInput = document.querySelector('[name="message"]');
+          const messageBodyInput = document.querySelector('#message-body');
+
+          form2.addEventListener('submit', (event) => {
+            event.preventDefault();
+            messageBodyInput.value = messageInput.value;
+            form2.submit();
+          });
+        </script>
 
       </article>
 
