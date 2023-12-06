@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Ali AbuSaleh,
 
-I'm a BDMA(Master in Big Data Management and Analytics) scholer. 
+I am an Erasmus Mundus student pursuing a master's degree in Big Data Management and Analytics, a joint program offered by four leading European universities. I have completed two semesters at the University of Brussels and the University Polytechnic of Catalonia, and I am continuing my studies at CentraleSupélec - Paris Saclay - in France for the second year of the master's. 
 
- Before that, I had experiance as Back-End engieer at Harri, which was my second year of experiance after I was a software engineer at Exalt Technology in Nablus, working in back-end development using SpringBoot ,and my kickstart experiance was I trained as Salesforcedeveloper (SFCC) 
-and .NET, at Infinite Tiers Group.
-
+I have a strong background in back-end engineering, with experience in developing and enhancing systems and tools using various technologies, such as Python, AWS, C++, C#, and Spring Boot. I have worked as a Back-End Engineer at Harri and Exalt, where I implemented business logic, databases, and architectures from scratch, as well as modified and debugged existing components to meet clients' requirements.
 
 </br>
 Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
