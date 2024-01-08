@@ -23,13 +23,7 @@ I am an Erasmus Mundus student pursuing a master's degree in Big Data Management
 I have a strong background in back-end engineering, with experience in developing and enhancing systems and tools using various technologies, such as Python, AWS, C++, C#, and Spring Boot. I have worked as a Back-End Engineer at Harri and Exalt, where I implemented business logic, databases, and architectures from scratch, as well as modified and debugged existing components to meet clients' requirements.
 
 </br>
-Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
-
-- ⚡  I've been in  Malta <img title="SpringBoot" src="https://www.corporategiftsmalta.com/wp-content/uploads/2017/06/flag-malta.png" width="30" height="20" /> as Erasmus+  student,  **MELA My Friend**!
-- :bulb: I'm interested in all things data: **Cloud, Security and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you, I'll be more than **Happy** to talk. .
-- 🌱 I’m currently pursuing Docker and Kubernetes.
-- 👯 I’m looking to collaborate on open source projects.
+Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation Data science, and health care sector!.
 
 
 ### My skills include
