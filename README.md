@@ -45,8 +45,15 @@ Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed 
 	<img title="MySQl & MariaDB" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="70" height="40" />
 </p>
    <p align="center">
-  
-![AliAbuSaleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabusaleh&count_private=true&show_icons=true&theme=radical)
+  ![aliabusaleh's Stats](https://github-readme-stats.vercel.app/api?username=aliabusaleh&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+</p>
+
+   <p align="center">
+![aliabusaleh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliabusaleh&theme=vue-dark&hide_border=false)
+</p>
+
+   <p align="center">
+![aliabusaleh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabusaleh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)   
 </p>
 
 
