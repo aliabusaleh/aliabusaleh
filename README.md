@@ -1,74 +1,70 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**aliabusaleh/aliabusaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![ViewCount](https://views.whatilearened.today/views/github/aliabusaleh/Thomas-George-T.svg?cache=remove)
 
-### Hi there 👋 I'm Ali AbuSaleh,
+### Hi there 👋 I'm Ali AbuSaleh
 
-I'm a BDMA(Master in Big Data Management and Analytics) scholer. 
+I'm a Machine Learning and Data Scientist with 4+ years of experience in AI, Big Data, and Backend Engineering. Currently researching **multimodal AI** at **Goethe University Frankfurt**, with a strong focus on **GenAI**, healthcare innovation, and scalable systems.
 
- Before that, I had experiance as Back-End engieer at Harri, which was my second year of experiance after I was a software engineer at Exalt Technology in Nablus, working in back-end development using SpringBoot ,and my kickstart experiance was I trained as Salesforcedeveloper (SFCC) 
-and .NET, at Infinite Tiers Group.
+With three Master’s degrees from top universities in **France**, **Spain**, and **Belgium**, I bring a cross-disciplinary approach to solving real-world problems — blending advanced AI methods with efficient backend architecture.
 
+---
 
-</br>
-Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Distributed Operating systems, :new: Innovation and Automation :robot:
+### 🔭 Recent Roles
 
-- ⚡  I've been in  Malta <img title="SpringBoot" src="https://www.corporategiftsmalta.com/wp-content/uploads/2017/06/flag-malta.png" width="30" height="20" /> as Erasmus+  student,  **MELA My Friend**!
-- :bulb: I'm interested in all things data: **Cloud, Security and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you, I'll be more than **Happy** to talk. .
-- 🌱 I’m currently pursuing Docker and Kubernetes.
-- 👯 I’m looking to collaborate on open source projects.
+- **Multimodal AI Researcher** @ Goethe-Universität Frankfurt  
+- **GenAI Engineer** @ G2i (Remote, US)  
+- **ML & Big Data Engineer (Intern)** @ Air Liquide – Paris Innovation Campus  
+- **Back-End Engineer** @ Harri (Django, AWS)  
+- **C++ & Spring Boot Developer** @ Exalt Technologies  
 
+---
 
-### My skills include
+### 🛠️ Tech Stack
 
 <p align="left">
-	<img title="Django" src="http://www.creons-votre-site.com/wp-content/uploads/2017/05/django-logo.png" width="40" height="40" />
-	<img title="Elasticsearch" src="https://user.oc-static.com/upload/2017/10/10/15076639807937_Elasticsearch-Logo-Color-V.jpg.png" width="40" height="40" />
-	<img title="Kibana" src="https://i.pinimg.com/originals/1f/4b/35/1f4b351501bafeb05af336efa643970c.png"  width="80" height="40" />
-	<img title="AWS Lambda" src="https://miro.medium.com/max/1400/1*djBovuUveshzYa9_TqPJzg.png" width="40" height="40" />
-	<img title="AWS SQS" src="https://www.snaplogic.com/wp-content/uploads/2018/02/AmazonSQS_400x400-1-1.png" width="40" height="40" />
-	<img title="AWS SNS" src="https://www.kamprasad.com/wp-content/uploads/2019/07/amazon_sns.png" width="40" height="40" />
-	<img title="AWS RDS" src="https://miro.medium.com/max/1140/1*CHOz8lCaOVf0uamEOY2-Og.png" width="40" height="40" />
-	<img title="AWS Step Functions" src="https://media-exp1.licdn.com/dms/image/C4E12AQGqm2eLKFVrbA/article-cover_image-shrink_600_2000/0/1572013929551?e=2147483647&v=beta&t=3X-_wEYOHXCvqk9eFn0u5tXGq-PcA5dAuP5BQYowCDE" width="40" height="40" />
+	<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+	<img title="Django" src="https://www.creons-votre-site.com/wp-content/uploads/2017/05/django-logo.png" width="40" height="40" />
 	<img title="Spring Boot" src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png" width="40" height="40" />
+	<img title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+	<img title="Elasticsearch" src="https://user.oc-static.com/upload/2017/10/10/15076639807937_Elasticsearch-Logo-Color-V.jpg.png" width="40" height="40" />
+	<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+	<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+	<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+	<img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 	<img title="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" height="40" />
 	<img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" />
-	<img title="Salesforce" src="https://seeklogo.com/images/S/salesforce-logo-F6B237ABDC-seeklogo.com.png" width="60" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="MySQl & MariaDB" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="70" height="40" />
-</p>
-   <p align="center">
-  
-![AliAbuSaleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabusaleh&count_private=true&show_icons=true&theme=radical)
 </p>
 
+---
 
-<br>
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aliabusaleh&theme=vue-dark&show_icons=true&count_private=true&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliabusaleh&theme=vue-dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabusaleh&theme=vue-dark&layout=compact&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Connect with me
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/alighabusaleh/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:alighabusaleh@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+    <a href="https://www.linkedin.com/in/alighabusaleh/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:alighabusaleh@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" width="100" height="30" /></a>
+    <a href="https://github.com/aliabusaleh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aliabusaleh-181717?style=flat&logo=github" height="30" /></a>
 </p>
-<hr \>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-</p>       
- 
- 
+
+---
+
+> *“A problem can be solved in 100 different ways — there’s always an easier one.”*  
+> *“You miss 100% of the shots you don’t take.”*
+
